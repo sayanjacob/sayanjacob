@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sayan Jacob</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello there! 👋 I'm Sayan Jacob</h1>
+<h3 align="center">Python Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **Flask**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
