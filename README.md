@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="mailto:sayanbinujacob@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="40"/>
+</a>
 <p align="left">
 <a href="https://www.behance.net/sayan_jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saynjacob" height="30" width="40" /></a>
 </p>
