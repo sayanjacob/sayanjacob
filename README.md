@@ -20,9 +20,7 @@
   <li><b>Backend:</b> Spring Boot, Node.js, Flask, REST APIs, Microservices</li>
   <li><b>Programming:</b> Java, Python, JavaScript</li>
   <li><b>Database:</b> MySQL, MongoDB, PostgreSQL</li>
-  <li><b>Cloud & DevOps:</b> Azure (Blob Storage, Cognitive Search, AI Services), Git, CI/CD</li>
-  <li><b>Security:</b> Multi-Factor Authentication, KYC, ACH Integration, Stripe Payouts</li>
-  <li><b>Design:</b> Figma, Adobe XD, Photoshop</li>
+  <li><b>Cloud & DevOps:</b> Azure, Git, CI/CD</li>
 </ul>
 
 <h3 align="left">🧰 Tools & Technologies:</h3>
